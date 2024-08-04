@@ -1,0 +1,15 @@
+.element {
+    margin-left: 100px;
+   margin-top: 10px;
+   height: 50%;
+   width: 50%;
+  }
+
+  .center-text {
+    height: 10px; /* กำหนดความสูงให้กับคอนเทนเนอร์ */
+    line-height: 10px; /* ตั้งค่า line-height เท่ากับความสูง */
+    text-align: center; /* จัดกลางแนวนอน */
+    color: green;
+    font-size: 25px;
+    
+  }
